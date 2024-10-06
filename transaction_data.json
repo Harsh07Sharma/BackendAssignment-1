@@ -1,0 +1,59 @@
+{
+  "DTtransaction": [
+    {
+      "trxnDate": "2021-05-15",
+      "scheme": "Scheme1",
+      "schemeName": "Aditya Birla Sun Life ELSS Tax Saver Fund",
+      "purchasePrice": 100.50,
+      "trxnUnits": 10,
+      "trxnAmount": 1005,
+      "folio": "Folio1",
+      "broker": "PayTm",
+      "isin": "INF209K01UN8"
+    },
+    {
+      "trxnDate": "2021-06-15",
+      "scheme": "Scheme1",
+      "schemeName": "Aditya Birla Sun Life ELSS Tax Saver Fund",
+      "purchasePrice": 102.75,
+      "trxnUnits": 5,
+      "trxnAmount": 513.75,
+      "folio": "Folio1",
+      "broker": "PayTm",
+      "isin": "INF209K01UN8"
+    },
+    {
+      "trxnDate": "2021-07-15",
+      "scheme": "Scheme1",
+      "schemeName": "Aditya Birla Sun Life ELSS Tax Saver Fund",
+      "purchasePrice": 105.25,
+      "trxnUnits": -3,
+      "trxnAmount": -315.75,
+      "folio": "Folio1",
+      "broker": "PayTm",
+      "isin": "INF209K01UN8"
+    },
+    {
+      "trxnDate": "2022-01-20",
+      "scheme": "Scheme2",
+      "schemeName": "HDFC Equity Fund",
+      "purchasePrice": 150.00,
+      "trxnUnits": 20,
+      "trxnAmount": 3000,
+      "folio": "Folio2",
+      "broker": "Zerodha",
+      "isin": "INF179K01Z12"
+    },
+    {
+      "trxnDate": "2022-06-30",
+      "scheme": "Scheme2",
+      "schemeName": "HDFC Equity Fund",
+      "purchasePrice": 160.00,
+      "trxnUnits": -5,
+      "trxnAmount": -800,
+      "folio": "Folio2",
+      "broker": "Zerodha",
+      "isin": "INF179K01Z12"
+    }
+  ]
+}
